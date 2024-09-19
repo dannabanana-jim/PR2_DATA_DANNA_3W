@@ -15,4 +15,6 @@ print(type(z))  # Imprime el tipo de la variable "z"
 
 
 
-![image](https://github.com/user-attachments/assets/370411a9-ac8d-4ebf-8220-5aff8213bbe2)
+ ![image](https://github.com/user-attachments/assets/a612e8ef-2d7d-44c5-afc6-ac50a3759fed)
+ 
+
